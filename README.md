@@ -1,1 +1,1 @@
-# college-Dispencery-Database-management-system
+# college-Dispensary-Database-management-system
